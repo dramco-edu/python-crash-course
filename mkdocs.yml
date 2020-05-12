@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Python Crash Course
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
+markdown_extensions:
+    - toc:
+        permalink: "#"
